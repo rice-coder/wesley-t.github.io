@@ -70,7 +70,8 @@ Our team proposed the use of an app that could:<br>
 
 #### Certifications
 
-[RISE by BCG](https://www.linkedin.com/company/rise-by-digitalbcg-academy/)
+[RISE by BCG](https://www.linkedin.com/company/rise-by-digitalbcg-academy/)<br>
+
 [ The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/certificate/UC-3a8820a7-7730-4d39-8232-89d3dd427b08/)
 
 
