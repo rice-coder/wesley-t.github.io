@@ -1,5 +1,3 @@
-# Wesley Teo
-
 ## CONTACT
 
 ✉️: wesley.tbw@gmail.com
