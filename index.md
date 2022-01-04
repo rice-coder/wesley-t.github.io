@@ -61,7 +61,7 @@ with their unique experience offerings. It is looking for ways to address gaps i
 Pelago as their preferred booking platform to book their vacation. <br><br>
 
 Our team proposed the use of an app that could:<br>
-1. Provides seamless end-to-end experience for the Millennials as the primary target user.<br> 
+1. Provides seamless end-to-end experience for Millennials as the primary target user.<br> 
 2. Encourages customer engagement by empowering them to build a community to share travel experiences and ideas.<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/hackathon-pelago)
@@ -69,10 +69,13 @@ Our team proposed the use of an app that could:<br>
 ## FEATURED
 
 #### Certifications
-RISE by BCG
-Udemy SQL
+
+[RISE by BCG](https://www.linkedin.com/company/rise-by-digitalbcg-academy/)
+[ The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/certificate/UC-3a8820a7-7730-4d39-8232-89d3dd427b08/)
 
 
 #### Achievements
 
-Top 2 Business Essentials
+![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)
+
+[RISE-BCG Top 2 Business Essentials Project](https://www.credly.com/badges/c1312155-76ea-4e80-bcb6-709f5b8d7326?source=linked_in_profile)
