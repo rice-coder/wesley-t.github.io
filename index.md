@@ -1,3 +1,5 @@
+### Data Analytics | Statistical Analysis | Machine Learning
+
 ## CONTACT
 
 ✉️: wesley.tbw@gmail.com
@@ -24,16 +26,16 @@ In this project, my main objective was to incorporate real-time diagnostics of a
 ### Statistical Analysis Project
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/statistical-analysis-project-1/mp2_plot.png)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+Tested hypothesis of whether the implementation of a revised gate system in a mobile game helped to reduce churn and increase retention rate of gamers, thus increasing year-on-year revenue from game purchases. Conducted A-B testing, statistical sampling and analysis to come to conclusions.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/statistical-analysis-project-1)
 
 ### Classification Project
-![alt text](miniproject3.jpg)
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/classification-project-1/classifproj.png)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+Built a classification model to predict churn customers one month in advance and also identified key churn drivers for a telecom company. Completed end-to-end coding which included data cleaning, exploratory data analysis and feature engineering. Constructed a random forest classification model and tuned probability thresholds to better capture churn in this use case.
 
-[Click here to view codebase](mini project 3)
+[Click here to view codebase](https://github.com/rice-coder/projects/tree/main/classification-project-1)
 
 ### Human Centered Design Projects
 
