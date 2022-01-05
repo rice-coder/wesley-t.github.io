@@ -1,4 +1,4 @@
-### Data Analytics | Statistical Analysis | Machine Learning
+# Data Analytics | Statistical Analysis | Machine Learning
 
 ## CONTACT
 
@@ -70,14 +70,14 @@ Our team proposed the use of an app that could:<br>
 
 ## FEATURED
 
-#### Certifications
+### Certifications
 
 [RISE by BCG](https://www.linkedin.com/company/rise-by-digitalbcg-academy/)<br>
 
 [ The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/certificate/UC-3a8820a7-7730-4d39-8232-89d3dd427b08/)
 
 
-#### Achievements
+### Achievements
 
 ![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)
 
